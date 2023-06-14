@@ -126,6 +126,7 @@ public class Program
     public static void Main(string[] args)
     {
         Console.WriteLine("Update");
+        Console.WriteLine("Update 2");
         Menu();
     }
 }
