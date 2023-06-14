@@ -127,6 +127,11 @@ public class Program
     {
         Console.WriteLine("Update");
         Console.WriteLine("Update 2");
+
+        if (true)
+        {
+
+        }
         Menu();
     }
 }
