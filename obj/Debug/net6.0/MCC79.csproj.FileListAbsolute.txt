@@ -1,0 +1,15 @@
+D:\Pekerjaan\MCC\MCC79\MCC79\bin\Debug\net6.0\MCC79.exe
+D:\Pekerjaan\MCC\MCC79\MCC79\bin\Debug\net6.0\MCC79.deps.json
+D:\Pekerjaan\MCC\MCC79\MCC79\bin\Debug\net6.0\MCC79.runtimeconfig.json
+D:\Pekerjaan\MCC\MCC79\MCC79\bin\Debug\net6.0\MCC79.dll
+D:\Pekerjaan\MCC\MCC79\MCC79\bin\Debug\net6.0\MCC79.pdb
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.csproj.AssemblyReference.cache
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.AssemblyInfoInputs.cache
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.AssemblyInfo.cs
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.csproj.CoreCompileInputs.cache
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.dll
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\refint\MCC79.dll
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.pdb
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\MCC79.genruntimeconfig.cache
+D:\Pekerjaan\MCC\MCC79\MCC79\obj\Debug\net6.0\ref\MCC79.dll
